@@ -1,10 +1,8 @@
 # Introduction
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devmilk&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 ✨I am Uğur, Software Engineer from <b><img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" height="20"> Turkey</b> and currently living there. 
 
-✨ I studied <b>Computer Engineering</b> in <b><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Y%C4%B1ld%C4%B1z_Technical_University_Logo.png" height="20"> Yildiz Technical University</b> in Turkey.
+✨ I studied <b>Computer Engineering</b> in <b><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Y%C4%B1ld%C4%B1z_Technical_University_Logo.png" height="20"> Yildiz Technical University</b> in Turkiye.
 
 ✨Besides currently working full-time in a private company as <ins>Backend Software Engineer</ins>, i have worked on fields such as <ins>Artificial Intelligence</ins>, <ins>Game Development</ins> and <ins>Blockchain Development</ins>.
 
